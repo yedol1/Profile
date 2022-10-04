@@ -1,4 +1,4 @@
-<h1 align="center"></h3>
+<h1 align="center">이력서</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Tailwind-blue"/></a>
 </p>
