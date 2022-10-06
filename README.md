@@ -9,4 +9,4 @@
 ### 수정
 
 ### 사이트
-> https://yedol1.github.io/Profile/index.html
+> https://yedol1.github.io/Resume_Profile/index.html
